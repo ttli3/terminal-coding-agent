@@ -1,4 +1,4 @@
-module agent
+module github.com/ttli3/terminal-coding-agent
 
 go 1.24.2
 
