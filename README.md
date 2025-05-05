@@ -3,7 +3,7 @@ Implementation of Thorsten Ball's ["How to Build an Agent"][1] tutorial. We crea
 an agentic coding experience, enhanced with tool-calling capabilities to read + list +
 edit files, execute shell commands, and generate diffs.
 
-[1]: https://thorstenball.com/blog/2023/04/13/how-to-build-an-agent/
+[1]: https://ampcode.com/how-to-build-an-agent
 
 
 ## Setup
